@@ -11,3 +11,12 @@ The corresponding omics datasets have been deposited in the DDBJ Genomic Express
 The analysis code is provided in:
 
 `Supplementary_Code_Transcriptomic_Analyses.md`
+
+## Usage
+
+The repository contains analysis code organized by analysis step in
+`Supplementary_Code_Transcriptomic_Analyses.md`.
+
+Object names and file paths have been generalized for publication.
+Users should replace these with the corresponding local paths and input objects
+before running the relevant code sections.
